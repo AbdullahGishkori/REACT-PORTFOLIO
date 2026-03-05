@@ -1,4 +1,4 @@
-import "./About.css";
+import "./about.css";
 import profile from "../../assets/profime img.jpeg"; // ya public method use karo
 
 export default function About() {

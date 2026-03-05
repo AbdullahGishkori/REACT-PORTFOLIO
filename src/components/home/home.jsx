@@ -1,4 +1,4 @@
-import "./Home.css";
+import "./home.css";
 import profile from "../../assets/profime img.jpeg"; // apni image yahan daalo
 
 export default function Home() {
