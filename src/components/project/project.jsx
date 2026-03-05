@@ -1,4 +1,4 @@
-import "./Project.css";
+import "./project.css";
 
 import weatherImg from "../../assets/weather-app.jpeg";
 import taskImg from "../../assets/task.jpeg";
